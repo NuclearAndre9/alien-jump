@@ -1,0 +1,46 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.spec
+
+# ---- Virtual environments ----
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+
+# ---- VS Code ----
+.vscode/
+.code-workspace
+
+# ---- IDEs ----
+.idea/
+.spyproject/
+*.sublime-project
+*.sublime-workspace
+
+# ---- Logs and temp ----
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# ---- Jupyter / notebooks ----
+.ipynb_checkpoints/
+
+# ---- Local settings ----
+.settings/
+.env
+.env.*
