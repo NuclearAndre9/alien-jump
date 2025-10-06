@@ -23,3 +23,17 @@ With this game I wanted to teach a solid foundation in basic programming princip
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+
+## Run
+Once the dependencies are installed, run:
+```bash
+python main.py
+```
+Or run it from your IDE.
+
+
+## Credits
+Thanks to my friend Sarah for creating the game texture and artwork.
+
+The project was originally developed in Spring 2023 for a university programming workshop.
