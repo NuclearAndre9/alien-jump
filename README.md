@@ -1,19 +1,24 @@
-# Alien Jump!
-This is a **Python + Pygame** educational project design to teach programming basics through an interactive game.
+# Alien Jump! 🛸
+This is a **Python + Pygame** educational project designed to teach programming basics through an interactive game.
 
 ## 🎮 Description
-This project was created as part of an introductory programming course where I teached university students from different majors. 
-Through building a game in Python, students learned programming basics on a fun and interactive way.
+This project was created as part of an introductory programming course where I taught university students from different majors. 
+By building a game in Python, students learned programming concepts on a fun and interactive way (At least that was the idea!).
 
 ## 🧠 Features
+With this game I wanted to teach a solid foundation in basic programming principles.
 - Object-oriented structure with multiple modules.  
-- Custom graphics.
-- Teaches loops, conditionals, functions, and keyboard input.  
-- Fully playable.
+- Input and Output handling.
+- loops and conditionals
+- functions and keyboard input.
+- classes and methods.
+- inheritance.
+- global variables.
+- Asteroids and outworld creatures!
 
 ## ⚙️ Requirements
-- Python 3.10+  
-- `pygame` library  
+- Python 3.13 (last verified in October 2025)  
+- `pygame` library
 
 Install dependencies:
 ```bash
