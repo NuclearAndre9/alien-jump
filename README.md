@@ -5,6 +5,10 @@ This is a **Python + Pygame** educational project designed to teach programming 
 This project was created as part of an introductory programming course where I taught university students from different majors. 
 By building a game in Python, students learned programming concepts on a fun and interactive way (At least that was the idea!).
 
+> **Note:**  
+> This is the **complete version** of the game.  
+> During the course, students worked with a simplified version of the code containing incomplete sections, which we progressively built together while covering each programming concept.
+
 ## 🧠 Features
 With this game I wanted to teach a solid foundation in basic programming principles.
 - Object-oriented structure with multiple modules.  
@@ -35,5 +39,3 @@ Or run it from your IDE.
 
 ## Credits
 Thanks to my friend Sarah for creating the game texture and artwork.
-
-The project was originally developed in Spring 2023 for a university programming workshop.
